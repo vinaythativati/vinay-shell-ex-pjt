@@ -8,4 +8,13 @@ free
 ps -a
 nproc
 top
+#linux syllabus
+#
+#
+#file system
+#run level
+#file permission
+#editor
+#git commads
+#
 
